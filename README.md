@@ -2,7 +2,7 @@
 
 The project's goal was to aid in the times when humankind is hit by calamities and disasters, such as the ongoing pandemic where human labor is unavailable. The architecture consisted of two robotic arms, one used to scrutinize the order from several packets stored in a warehouse. At the same time, the other was responsible for the final segregation of the packages based on demand and delivery type. Other features included a mailing facility and a dashboard showing the overall order statistics. 
 
-Repository contains taskwise modules and packages which are submitted during E-yantra Robotics Competition 2020-2021                                                               
+_Repository contains taskwise modules and packages which are submitted during E-yantra Robotics Competition 2020-2021  _                                                             
                                                                                                                                                                                   
 
 # Preliminary Video
